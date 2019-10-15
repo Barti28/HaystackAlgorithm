@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Haystack\bin\Debug\netcoreapp2.1\Haystack.deps.json
+C:\Users\User\source\repos\Haystack\bin\Debug\netcoreapp2.1\Haystack.runtimeconfig.json
+C:\Users\User\source\repos\Haystack\bin\Debug\netcoreapp2.1\Haystack.runtimeconfig.dev.json
+C:\Users\User\source\repos\Haystack\bin\Debug\netcoreapp2.1\Haystack.dll
+C:\Users\User\source\repos\Haystack\bin\Debug\netcoreapp2.1\Haystack.pdb
+C:\Users\User\source\repos\Haystack\obj\Debug\netcoreapp2.1\Haystack.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Haystack\obj\Debug\netcoreapp2.1\Haystack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Haystack\obj\Debug\netcoreapp2.1\Haystack.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Haystack\obj\Debug\netcoreapp2.1\Haystack.AssemblyInfo.cs
+C:\Users\User\source\repos\Haystack\obj\Debug\netcoreapp2.1\Haystack.dll
+C:\Users\User\source\repos\Haystack\obj\Debug\netcoreapp2.1\Haystack.pdb
