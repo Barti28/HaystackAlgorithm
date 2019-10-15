@@ -13,4 +13,4 @@ sequence of length = 5 found at haystack offset 27, needle offset 1
 sequence of length = 5 found at haystack offset 38, needle offset 2
 
 
-These algorithm consider also the one of bad cases if we have in haystack example:abcabcy. If threshold is =3 it will show the two abc Matched. In the worst case the control of a with d will interupted and the i will be iterated and a will not control with a, but it will go at the b parameter and at this case matched of abc other will not be, but at these case I have made an i=i-1 so the a will be controlled with a, and the second matched of abc will be.
+These algorithm consider also the one of bad cases if we have in haystack example:abcabcy. If threshold is =3 it will show the two abc Matched. In the worst case the control of a with d will interupted and the i will be iterated and a will not control with a, but it will go at the b parameter and at these case we will not have another Matched of three parameters, but at these case I have made an i=i-1 so the a will be controlled with a, and the second matched of abc will be.
