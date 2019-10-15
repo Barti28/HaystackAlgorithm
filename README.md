@@ -1,1 +1,1 @@
-# HaystackAlgorithm. To learn more about this algorithm and uses of it read "Instructions" file
+# HaystackAlgorithm. To learn more about this algorithm and uses of it read "Instructions" file.
